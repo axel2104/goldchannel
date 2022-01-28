@@ -465,6 +465,7 @@ if it's not present, don't show loader */
 #discorso {
 	text-align: center;
 	position: relative;
+	padding-bottom: 100px;
 }
 
 #discorso h2 {
