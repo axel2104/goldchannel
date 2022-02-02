@@ -253,8 +253,8 @@ i.twomore{text-align:right; position: relative;
 #contact form{max-width:480px; width:100%; margin:0 auto;}
 #contact form input , #contact form textarea{width:100%; outline:0; border:2px solid #010101; margin-bottom:25px; padding:13px; color:#010101;}
 #contact form textarea{height:200px;}
-#contact form a{width:170px; height:51px; line-height:51px; background:#010101; color:#fff; font-weight:700; text-transform:uppercase;display:block; margin:0 auto;}
-#contact form a:hover{background:#fcdb00; color:#010101; transition:all 0.5s;}
+#contact form button{width:170px; height:51px; line-height:51px; background:#010101; color:#fff; font-weight:700; text-transform:uppercase;display:block; margin:0 auto;}
+#contact form button:hover{background:#fcdb00; color:#010101; transition:all 0.5s;}
 footer{padding:90px 0 277px; background:#010101;}
 footer h2{color:#fff;}
 footer p.top{margin-bottom:35px;}
