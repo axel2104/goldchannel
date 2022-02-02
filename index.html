@@ -587,11 +587,20 @@
 
             <div class="row">
                 <div class="col-lg-12">
-                    <form>
-                        <input type="text" placeholder="Email" />
-                        <textarea placeholder="Messaggio"></textarea>
-                        <a href="#">Invia</a>
-                    </form>
+                    <form name="contact" method="POST" data-netlify="true">
+                        <p>
+                          <label>Nome: <input type="text" name="name" /></label>   
+                        </p>
+                        <p>
+                          <label>La tua mail: <input type="email" name="email" /></label>
+                        </p>
+                        <p>
+                          <label>Chiedici qualcosa in specifico: <textarea name="message"></textarea></label>
+                        </p>
+                        <p>
+                          <button type="submit">Send</button>
+                        </p>
+                      </form>
                 </div>
             </div>
 
