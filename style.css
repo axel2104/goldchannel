@@ -255,7 +255,7 @@ i.twomore{text-align:right; position: relative;
 #contact form textarea{height:200px;}
 #contact form button{width:170px; height:51px; line-height:51px; background:#010101; color:#fff; font-weight:700; text-transform:uppercase;display:block; margin:0 auto;}
 #contact form button:hover{background:#fcdb00; color:#010101; transition:all 0.5s;}
-footer{padding:90px 0 277px; background:#010101;}
+footer{padding:40px 0 75px; background:#010101;}
 footer h2{color:#fff;}
 footer p.top{margin-bottom:35px;}
 .mesg{max-width:740px; width:100%; display:block; margin:0 auto 110px;}
